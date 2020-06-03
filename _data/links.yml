@@ -1,8 +1,8 @@
-- name: 码志
+- name: cn-qlg
   url: https://github.com/cn-qlg
   src: life
 
-- name: 水寒的博客
+- name: cn-qlg的github
   url: https://github.com/cn-qlg
   src: www
 
