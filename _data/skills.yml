@@ -1,19 +1,14 @@
-- name: Software Engineer Keywords
+- name: 软件工程师
   keywords:
-      - Java
+      - C#
       - C++
+      - X++
+      - Microsoft SQL Server
+
+- name: 技术分析工程师
+  keywords:
+      - 爬虫
+      - 反编译
       - Python
-      - Design Patterns
-
-- name: Mobile Developer Keywords
-  keywords:
-      - Android
-      - Reverse Engineering
-
-- name: Windows Developer Keywords
-  keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - C#
+      - MySQL
