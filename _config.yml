@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://cn-qlg.github.io/
+url: https://cn-qlg.github.io
 date_format: "ordinal"
 title: 个人博客
 subtitle: "个人博客"
